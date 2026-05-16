@@ -14,8 +14,9 @@
       <itunes:name>Meysam</itunes:name>
       <itunes:email>meisam_81@yahoo.com</itunes:email>
     </itunes:owner>
-    <itunes:category text="Science"/>
-    <itunes:category text="Mathematics"/>
+    <itunes:category text="Science">
+      <itunes:category text="Natural Sciences"/>
+    </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://meisam81.github.io/infinite-powers-audiobook/cover.jpg"/>
     <copyright>Original content © Steven Strogatz. This recording is a personal AI-narrated project.</copyright>
