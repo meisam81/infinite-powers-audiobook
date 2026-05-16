@@ -1,0 +1,640 @@
+concerns. Shepherds needed to keep track of their flocks. Farmers
+needed to weigh the grain reaped in the harvest. Tax collectors had
+to decide how many cows or chickens each peasant owed the king.
+Out of such practical demands came the invention of numbers. At
+first they were tallied on fingers and toes. Later they were scratched
+on animal bones. As their representation evolved from scratches to
+symbols, numbers facilitated everything from taxation and trade to
+accounting and census taking. We see evidence of all this in Mesopotamian clay tablets written more than five thousand years ago:
+row after row of entries recorded with the wedge-shaped symbols
+called cuneiform.
+Along with numbers, shapes mattered too. In ancient Egypt,
+the measurement of lines and angles was of paramount importance.
+Each year surveyors had to redraw the boundaries of farmers’ fields
+after the summer flooding of the Nile washed the borderlines away.
+That activity later gave its name to the study of shape in general:
+geometry, from the Greek gē, “earth,” and metrēs, “measurer.”
+At the start, geometry was hard-edged and sharp-cornered. Its
+predilection for straight lines, planes, and angles reflected its utilitarian origins—triangles were useful as ramps, pyramids as monuments and tombs, and rectangles as tabletops, altars, and plots of
+land. Builders and carpenters used right angles for plumb lines. For
+sailors, architects, and priests, knowledge of straight-line geometry
+was essential for surveying, navigating, keeping the calendar, predicting eclipses, and erecting temples and shrines.
+Yet even when geometry was fixated on straightness, one curve
+always stood out, the most perfect of all: the circle. We see circles
+in tree rings, in the ripples on a pond, in the shape of the sun and
+the moon. Circles surround us in nature. And as we gaze at circles,
+they gaze back at us, literally. There they are in the eyes of our loved
+ones, in the circular outlines of their pupils and irises. Circles span
+the practical and the emotional, as wheels and wedding rings, and
+they are mystical too. Their eternal return suggests the cycle of the
+seasons, reincarnation, eternal life, and never-ending love. No wonder circles have commanded attention for as long as humanity has
+studied shapes.
+Mathematically, circles embody change without change. A
+point moving around the circumference of a circle changes direction without ever changing its distance from a center. It’s a minimal
+form of change, a way to change and curve in the slightest way possible. And, of course, circles are symmetrical. If you rotate a circle
+about its center, it looks unchanged. That rotational symmetry may
+be why circles are so ubiquitous. Whenever some aspect of nature
+doesn’t care about direction, circles are bound to appear. Consider
+what happens when a raindrop hits a puddle: tiny ripples expand
+outward from the point of impact. Because they spread equally fast
+in all directions and because they started at a single point, the ripples
+have to be circles. Symmetry demands it.
+Circles can also give birth to other curved shapes. If we imagine
+skewering a circle on its diameter and spinning it around that axis
+in three-dimensional space, the rotating circle makes a sphere, the
+shape of a globe or a ball. When a circle is moved vertically into the
+third dimension along a straight line at right angles to its plane, it
+makes a cylinder, the shape of a can or a hatbox. If it shrinks at the
+same time as it’s moving vertically, it makes a cone; if it expands as
+it moves vertically, it makes a truncated cone (the shape of a lampshade).
+Circles, spheres, cylinders, and cones fascinated the early geometers, but they found them much harder to analyze than triangles, rectangles, squares, cubes, and other rectilinear shapes made
+of straight lines and flat planes. They wondered about the areas of
+curved surfaces and the volumes of curved solids but had no clue
+how to solve such problems. Roundness defeated them.
+
+Infinity as a Bridge Builder
+Calculus began as an outgrowth of geometry. Back around 250 bce
+in ancient Greece, it was a hot little mathematical startup devoted to
+the mystery of curves. The ambitious plan of its devotees was to use
+infinity to build a bridge between the curved and the straight. The
+hope was that once that link was established, the methods and techniques of straight-line geometry could be shuttled across the bridge
+and brought to bear on the mystery of curves. With infinity’s help,
+all the old problems could be solved. At least, that was the pitch.
+At the time, that plan must have seemed pretty far-fetched. Infinity had a dubious reputation. It was known for being scary, not
+useful. Worse yet, it was nebulous and bewildering. What was it
+exactly? A number? A place? A concept?
+Nevertheless, as we’ll see soon and in the chapters to come,
+infinity turned out to be a godsend. Given all the discoveries and
+technologies that ultimately flowed from calculus, the idea of using
+infinity to solve difficult geometry problems has to rank as one of
+the best ideas anyone ever had.
+Of course, none of that could have been foreseen in 250 bce.
+Still, infinity did put some impressive notches in its belt right away.
+One of its first and finest was the solution of a long-standing enigma:
+how to find the area of a circle.
+
+A Pizza Proof
+Before I go into the details, let me sketch the argument. The strategy is to reimagine the circle as a pizza. Then we’ll slice that pizza
+into infinitely many pieces and magically rearrange them to make a
+rectangle. That will give us the answer we’re looking for, since moving slices around obviously doesn’t change their area from what they
+were originally, and we know how to find the area of a rectangle: we
+just multiply its width times its height. The result is a formula for
+the area of a circle.
+For the sake of this argument, the pizza needs to be an idealized
+mathematical pizza, perfectly flat and round, with an infinitesimally
+thin crust. Its circumference, abbreviated by the letter C, is the distance around the pizza, measured by tracing around the crust. Circumference isn’t something that pizza lovers ordinarily care about,
+but if we wanted to, we could measure C with a tape measure.
+
+Another quantity of interest is the pizza’s radius, r, defined as the
+distance from its center to every point on its crust. In particular, r
+also measures how long the straight side of a slice is, assuming that
+all the slices are equal and cut from the center out to the crust.
+Suppose we start by dividing the pie into four quarters. Here’s
+one way to rearrange them, but it doesn’t look too promising.
+The new shape looks bulbous and strange with its scalloped top
+and bottom. It’s certainly not a rectangle, so its area is not easy to
+guess. We seem to be going backward. But as in any drama, the hero
+needs to get into trouble before triumphing. The dramatic tension
+is building.
+While we’re stuck here, though, we should notice two things, because they are going to hold true throughout the proof, and they will
+ultimately give us the dimensions of the rectangle we’re seeking. The
+first observation is that half of the crust became the curvy top of the
+new shape, and the other half became the bottom. So the curvy top
+has a length equal to half the circumference, C 2 , and so does the
+bottom, as shown in the diagram. That length is eventually going to
+turn into the long side of the rectangle, as we’ll see. The other thing to
+notice is that the tilted straight sides of the bulbous shape are just the
+sides of the original pizza slices, so they still have length r. That length
+is eventually going to turn into the short side of the rectangle.
+The reason we aren’t seeing any signs of the desired rectangle
+yet is that we haven’t cut enough slices. If we make eight slices and
+rearrange them like so, our picture starts to look more nearly rectangular.
+In fact, the pizza starts to look like a parallelogram. Not bad—at
+least it’s almost rectilinear. And the scallops on the top and bottom
+are a lot less bulbous than they were. They flattened out when we
+used more slices. As before, they have curvy length C 2 on the top
+and bottom and a slanted-side length r.
+To spruce up the picture even more, suppose we cut one of the
+slanted end pieces in half lengthwise and shift that half to the other
+side.
+Now the shape looks very much like a rectangle. Admittedly, it’s still
+not perfect because of the scalloped top and bottom caused by the
+curvature of the crust, but at least we’re making progress.
+Since making more pieces seems to be helping, let’s keep slicing.
+With sixteen slices and the cosmetic sprucing-up of the end piece, as
+we did before, we get this result:
+The more slices we take, the more we flatten out the scallops
+produced by the crust. Our maneuvers are producing a sequence of
+shapes that are magically homing in on a certain rectangle. Because
+the shapes keep getting closer and closer to that rectangle, we’ll call
+it the limiting rectangle.
+The point of all this is that we can easily find the area of this
+limiting rectangle by multiplying its width by its height. All that remains is to find that height and width in terms of the circle’s dimensions. Well, since the slices are standing upright, the height is just
+the radius r of the original circle. And the width is half the circumference of the circle; that’s because half of the circumference (the
+crust of the pizza) went into making the top of the rectangle and the
+other half got used on the bottom, just as it did at every intermediate stage of working with the bulbous shapes. Thus the width is half
+the circumference, C 2 . Putting everything together, the area of
+the limiting rectangle is given by its height times its width, namely,
+A = r ×C 2 = rC 2 . And since moving the pizza slices around did
+not change their area, this must also be the area of the original circle!
+This result for the area of a circle, A = rC 2 , was first proved
+(using a similar but much more careful argument) by the ancient
+Greek mathematician Archimedes (287–212 bce) in his essay “Measurement of a Circle.”
+The most innovative aspect of the proof is the way infinity
+came to the rescue. When we had only four slices, or eight, or
+sixteen, the best we could do was rearrange the pizza into an
+imperfect scalloped shape. After an unpromising start, the more
+slices we took, the more rectangular the shape became. But it was
+only in the limit of infinitely many slices that it became truly rectangular. That’s the big idea behind calculus. Everything becomes
+simpler at infinity.
+
+Limits and the Riddle of the Wall
+A limit is like an unattainable goal. You can get closer and closer to
+it, but you can never get all the way there.
+For example, in the pizza proof we were able to make the
+scalloped shapes more and more nearly rectangular by cutting
+enough slices and rearranging them. But we could never make
+them genuinely rectangular. We could only approach that state
+of perfection. Fortunately, in calculus, the unattainability of the
+limit usually doesn’t matter. We can often solve the problems
+we’re working on by fantasizing that we can actually reach the
+limit and then seeing what that fantasy implies. In fact, many of
+the greatest pioneers of the subject did precisely that and made
+great discoveries by doing so. Logical, no. Imaginative, yes. Successful, very.
+A limit is a subtle concept but a central one in calculus. It’s elusive because it’s not a common idea in daily life. Perhaps the closest
+analogy is the Riddle of the Wall. If you walk halfway to the wall,
+and then you walk half the remaining distance, and then you walk
+half of that, and on and on, will there ever be a step when you finally
+get to the wall?
+The answer is clearly no, because the Riddle of the Wall stipulates that at each step, you walk halfway to the wall, not all the way.
+After you take ten steps or a million or any other number of steps,
+there will always be a gap between you and the wall. But equally
+clearly, you can get arbitrarily close to the wall. What this means is
+that by taking enough steps, you can get to within a centimeter of
+it, or a millimeter, or a nanometer, or any other tiny but nonzero
+distance, but you can never get all the way there. Here, the wall
+plays the role of the limit. It took about two thousand years for the
+limit concept to be rigorously defined. Until then, the pioneers of
+calculus got by just fine with intuition. So don’t worry if limits feel
+hazy for now. We’ll get to know them better by watching them in
+action. From a modern perspective, they matter because they are the
+bedrock on which all of calculus is built.
+If the metaphor of the wall seems too bleak and inhuman (who
+wants to approach a wall?), try this analogy: Anything that approaches a limit is like a hero engaged in an endless quest. It’s not an
+exercise in total futility, like the hopeless task faced by Sisyphus, who
+was condemned to roll a boulder up a hill only to see it roll back
+down again over and over for eternity. Rather, when a mathematical
+process advances toward a limit (like the scalloped shapes homing
+in on the limiting rectangle), it’s as if a protagonist is striving for
+something he knows is impossible but for which he still holds out
+the hope of success, encouraged by the steady progress he’s making
+while trying to reach an unreachable star.
+
+The Parable of .333 . . .
+To reinforce the big ideas that everything becomes simpler at infinity and that limits are like unattainable goals, consider the following
+example from arithmetic. It’s the problem of converting a fraction—for example, one-third—into an equivalent decimal (in this case,
+1/3 = 0.333 . . .). I vividly remember when my eighth-grade math
+teacher, Ms. Stanton, taught us how to do this. It was memorable
+because she suddenly started talking about infinity.
+Until that moment, I’d never heard a grownup mention infinity.
+My parents certainly had no use for it. It seemed like a secret that
+only kids knew about. On the playground, it came up all the time in
+taunts and one-upmanship.
+“You’re a jerk!”
+“Yeah, well, you’re a jerk times two!”
+“And you’re a jerk times infinity!”
+“And you’re a jerk times infinity plus one!”
+“That’s the same as infinity, you idiot!”
+Those edifying sessions had convinced me that infinity did not
+behave like an ordinary number. It didn’t get bigger when you added
+one to it. Even adding infinity to it didn’t help. Its invincible properties made it great for finishing arguments in the schoolyard. Whoever deployed it first would win.
+But no teacher had ever talked about infinity until Ms. Stanton
+brought it up that day. Everyone in our class already knew about
+finite decimals, the familiar kind used for amounts of money, like
+$10.28, with its two digits after the decimal point. By comparison,
+infinite decimals, which had infinitely many digits after the decimal
+point, seemed strange at first but appeared natural as soon as we
+started to discuss fractions.
+We learned that the fraction one-third could be written as 0.333 . . .
+where the dot-dot-dots meant that the threes repeated indefinitely.
+That made sense to me, because when I tried to calculate one-third by doing the long-division algorithm on it, I found myself stuck in an
+endless loop: three doesn’t go into one, so pretend the one is a ten;
+then three goes into ten three times, which leaves a remainder of
+one; and now I’m back where I started, still trying to divide three
+into one. There was no way out of the loop. That’s why the threes
+kept repeating in 0.333 dot dot dot
+The three dots at the end of 0.333 . . . have two interpretations.
+The naive interpretation is that there are literally infinitely many 3s
+packed side by side to the right of the decimal point. We can’t write
+them all down, of course, since there are infinitely many of them,
+but by writing the three dots we signify that they are all there, at
+least in our minds. I’ll call this the completed infinity interpretation.
+The advantage of this interpretation is that it seems easy and commonsensical, as long as we are willing not to think too hard about
+what infinity means.
+The more sophisticated interpretation is that 0.333 . . . represents a limit, just like the limiting rectangle does for the scalloped
+shapes in the pizza proof or like the wall does for the hapless walker.
+Except here, 0.333 . . . represents the limit of the successive decimals
+we generate by doing long division on the fraction one-third. As the division process continues for more and more steps, it generates more
+and more 3s in the decimal expansion of one-third. By grinding away, we
+can produce an approximation as close to one-third as we like. If we’re not
+happy with 1/3 ≈ 0.3, we can always go a step further to 1/3 ≈ 0.33,
+and so on. I’ll call this the potential infinity interpretation. It’s “potential” in the sense that the approximations can potentially go on
+for as long as desired. There’s nothing to stop us from continuing for
+a million or a billion or any other number of steps. The advantage
+of this interpretation is that we never have to invoke woolly-headed
+notions like infinity. We can stick to the finite.
+For working with equations like 1/3 = 0.333 . . ., it doesn’t really
+matter which view we take. They’re equally tenable and yield the
+same mathematical results in any calculation we care to perform.
+But there are other situations in mathematics where the completed
+infinity interpretation can cause logical mayhem. This is what I
+meant in the introduction when I raised the specter of the golem
+of infinity. Sometimes it really does make a difference how we think
+about the results of a process that approaches a limit. Pretending
+that the process actually terminates and that it somehow reaches the
+nirvana of infinity can occasionally get us into trouble.
+
+The Parable of the Infinite Polygon
+As a chastening example, suppose we put a certain number of dots
+on a circle, space them evenly, and connect them to one another with
+straight lines. With three dots, we get an equilateral triangle; with
+four, a square; with five, a pentagon; and so on, running through a
+sequence of rectilinear shapes called regular polygons.
+
+Notice that the more dots we use, the rounder the polygons
+become and the closer they get to the circle. Meanwhile, their sides
+get shorter and more numerous. As we move progressively further
+through the sequence, the polygons approach the original circle as
+a limit.
+In this way, infinity is bridging two worlds again. This time it’s
+taking us from the rectilinear to the round, from sharp-cornered
+polygons to silky-smooth circles, whereas in the pizza proof, infinity
+brought us from round to rectilinear as it transformed a circle into
+a rectangle.
+Of course, at any finite stage, a polygon is still just a polygon. It’s
+not yet a circle and it never becomes one. It gets closer and closer to
+being a circle, but it never truly gets there. We are dealing here with
+potential infinity, not completed infinity. So everything is airtight
+from the standpoint of logical rigor.
+But what if we could go all the way to completed infinity? Would
+the resulting infinite polygon with infinitesimally short sides actually be a circle? It’s tempting to think so, because then the polygon
+would be smooth. All its corners would be sanded off. Everything
+would become perfect and beautiful.
+The Allure and Peril of Infinity
+There’s a general lesson here: Limits are often simpler than the approximations leading up to them. A circle is simpler and more graceful than any of the thorny polygons that approach it. So too for
+the pizza proof, where the limiting rectangle was simpler and more
+elegant than the scalloped shapes, with their unsightly bulges and
+cusps. And likewise for the fraction one-third. It was simpler and more
+handsome than any of the ungainly fractions creeping up on it, with
+their big ugly numerators and denominators, like three-tenths and thirty-three hundredths and
+three hundred thirty-three thousandths. In all these cases, the limiting shape or number was simpler
+and more symmetrical than its finite approximators.
+This is the allure of infinity. Everything becomes better there.
+With that lesson in mind, let’s return to the parable of the infinite polygon. Should we take the plunge and say that a circle truly is
+a polygon with infinitely many infinitesimal sides? No. We mustn’t
+do that, mustn’t yield to that temptation. Doing so would be to
+commit the sin of completed infinity. It would condemn us to logical hell.
+To see why, suppose we entertain the thought, just for a moment, that a circle is indeed an infinite polygon with infinitesimal
+sides. How long, exactly, are those sides? Zero length? If so, then
+infinity times zero—the combined length of all those sides—must
+equal the circumference of the circle. But now imagine a circle of
+double the circumference. Infinity times zero would also have to
+equal that larger circumference as well. So infinity times zero would
+have to be both the circumference and double the circumference.
+What nonsense! There simply is no consistent way to define infinity
+times zero, and so there is no sensible way to regard a circle as an
+infinite polygon.
+Nevertheless, there is something so enticing about this intuition. Like the biblical original sin, the original sin of calculus—the
+temptation to treat a circle as an infinite polygon with infinitesimally short sides—is very hard to resist, and for the same reason. It
+tempts us with the prospect of forbidden knowledge, with insights
+unavailable by ordinary means. For thousands of years, geometers
+struggled to figure out the circumference of a circle. If only a circle
+could be replaced by a polygon made of many tiny straight sides, the
+problem would be so much easier.
+By listening to the hiss of this serpent—but holding back just
+enough, by using potential infinity instead of the more tempting
+completed infinity—mathematicians learned how to solve the circumference problem and other mysteries of curves. In the coming
+chapters, we’ll see how they did it. But first, we need to gain an even
+deeper appreciation of just how dangerous completed infinity can
+be. It’s a gateway sin to many others, including the sin our teachers
+warned us about first.
+
+The Sin of Dividing by Zero
+All across the world, students are being taught that division by zero
+is forbidden. They should feel shocked that such a taboo exists.
+Numbers are supposed to be orderly and well behaved. Math class
+is a place for logic and reasoning. And yet it’s possible to ask simple
+things of numbers that just don’t work or make sense. Dividing by
+zero is one of them.
+The root of the problem is infinity. Dividing by zero summons
+infinity in much the same way that a Ouija board supposedly summons spirits from another realm. It’s risky. Don’t go there.
+For those who can’t resist and want to understand why infinity
+lurks in the shadows, imagine dividing 6 by a number that’s small
+and getting close to zero, but that isn’t quite zero, say something like
+0.1. There’s nothing taboo about that. The answer to 6 divided by
+0.1 is 60, a fairly sizable number. Divide 6 by an even smaller number, say 0.01, and the answer grows bigger; now it’s 600. If we dare
+to divide 6 by a number much closer to zero, say 0.0000001, the
+answer gets much bigger; instead of 60 or 600, now it’s 60,000,000.
+The trend is clear. The smaller the divisor, the bigger the answer. In
+the limit as the divisor approaches zero, the answer approaches infinity. That’s the real reason why we can’t divide by zero. The faint of
+heart say the answer is undefined, but the truth is it’s infinite.
+All of this can be visualized as follows. Imagine dividing a 6-centimeter line into pieces that are each 0.1 centimeter long. Those 60
+pieces laid end to end make up the original.
+
+Likewise (but I won’t attempt to sketch it), that same line can be
+chopped into 600 pieces that are each 0.01 centimeter or 60,000,000
+pieces that are each 0.0000001 centimeter.
+If we keep going and take this chopping frenzy to the limit, we
+are led to the bizarre conclusion that a 6-centimeter line is made up
+of infinitely many pieces of length zero. Maybe that sounds plausible.
+After all, the line is made up of infinitely many points, and each
+point has zero length.
+But what’s so philosophically unnerving is that the same argument applies to a line of any length. Indeed, there’s nothing special
+about the number 6. We could just as well have claimed that a line of
+length 3 centimeters, or 49.57, or 2,000,000,000 is made up of infinitely many points of zero length. Evidently, multiplying zero by infinity can give us any and every conceivable result—6 or 3 or 49.57
+or 2,000,000,000. That’s horrifying, mathematically speaking.
+
+The Sin of Completed Infinity
+The transgression that dragged us into this mess was pretending that
+we could actually reach the limit, that we could treat infinity like
+an attainable number. Back in the fourth century bce, the Greek
+philosopher Aristotle warned that sinning with infinity in this way
+could lead to all sorts of logical trouble. He railed against what he
+called completed infinity and argued that only potential infinity
+made sense.
+In the context of chopping a line into pieces, potential infinity would mean that the line could be cut into more and more
+pieces, as many as desired but still always a finite number and all of
+nonzero length. That’s perfectly permissible and leads to no logical
+difficulties.
+What’s verboten is to imagine going all the way to a completed
+infinity of pieces of zero length. That, Aristotle felt, would lead to
+nonsense—as it does here, in revealing that zero times infinity can
+give any answer. And so he forbade the use of completed infinity in
+mathematics and philosophy. His edict was upheld by mathematicians for the next twenty-two hundred years.
+Somewhere in the dark recesses of prehistory, somebody realized
+that numbers never end. And with that thought, infinity was born.
+It’s the numerical counterpart of something deep in our psyches,
+in our nightmares of bottomless pits, and in our hopes for eternal
+life. Infinity lies at the heart of so many of our dreams and fears
+and unanswerable questions: How big is the universe? How long is
+forever? How powerful is God? In every branch of human thought,
+from religion and philosophy to science and mathematics, infinity
+has befuddled the world’s finest minds for thousands of years. It has
+been banished, outlawed, and shunned. It’s always been a dangerous
+idea. During the Inquisition, the renegade monk Giordano Bruno
+was burned alive at the stake for suggesting that God, in His infinite
+power, created innumerable worlds.
+
+Zeno’s Paradoxes
+About two millennia before the execution of Giordano Bruno, another brave philosopher dared to contemplate infinity. Zeno of Elea
+(c. 490–430 bce) posed a series of paradoxes about space, time,
+and motion in which infinity played a starring and perplexing role.
+These conundrums anticipated ideas at the heart of calculus and are
+still being debated today. Bertrand Russell called them immeasurably subtle and profound.
+We aren’t sure what Zeno was trying to prove with his paradoxes
+because none of his writings have survived, if any existed to begin
+with. His arguments have come down to us through Plato and Aristotle, who summarized them mainly to demolish them. In their telling, Zeno was trying to prove that change is impossible. Our senses
+tell us otherwise, but our senses deceive us. Change, according to
+Zeno, is an illusion.
+Three of Zeno’s paradoxes are particularly famous and strong.
+The first of them, the Paradox of the Dichotomy, is similar to the
+Riddle of the Wall but vastly more frustrating. It holds that you can’t
+ever move because before you can take a single step, you need to take
+a half a step. And before you can do that, you need to take a quarter
+of a step, and so on. So not only can’t you get to the wall—you can’t
+even start walking.
+It’s a brilliant paradox. Who would have thought that taking a
+step required completing infinitely many subtasks? Worse still, there
+is no first task to complete. The first task cannot be taking half a
+step because before that you’d have to complete a quarter of a step,
+and before that, an eighth of a step, and so on. If you thought you
+had a lot to do before breakfast, imagine having to finish an infinite
+number of tasks just to get to the kitchen.
+Another paradox, called Achilles and the Tortoise, maintains
+that a swift runner (Achilles) can never catch up to a slow runner
+(a tortoise) if the slow runner has been given a head start in a race.
+
+For by the time Achilles reaches the spot where the tortoise started,
+the tortoise will have moved a little bit farther down the track. And
+by the time Achilles reaches that new location, the tortoise will have
+crept slightly farther ahead. Since we all believe that a fast runner can
+overtake a slow runner, either our senses are deceiving us or there is
+something wrong in the way that we reason about motion, space,
+and time.
+In these first two paradoxes, Zeno seemed to be arguing against
+space and time being fundamentally continuous, meaning that they
+can be divided endlessly. His clever rhetorical strategy (some say he
+invented it) was proof by contradiction, known to lawyers and logicians as reductio ad absurdum, reduction to an absurdity. In both
+paradoxes, Zeno assumed the continuity of space and time and then
+deduced a contradiction from that assumption; therefore, the assumption of continuity must be false. Calculus is founded on that
+very assumption and so has a lot at stake in this fight. It rebuts Zeno
+by showing where his reasoning went wrong.
+For example, here’s how calculus takes care of Achilles and the
+tortoise. Suppose the tortoise starts 10 meters ahead of Achilles but
+Achilles runs 10 times faster, say at a speed of 10 meters per second
+compared to the tortoise’s 1 meter per second. Then it takes Achilles
+1 second to make up the tortoise’s 10-meter head start. During that
+time the tortoise will have moved 1 meter farther ahead. It takes
+Achilles another 0.1 second to make up that difference, by which
+time the tortoise will have moved another 0.1 meter ahead. Continuing this reasoning, we see that Achilles’s consecutive catch-up
+times add up to the infinite series
+1 plus 0.1 plus 0.01 plus 0.001, and so on, equals 1.111 repeating seconds.
+Rewritten as an equivalent fraction, this amount of time is equal to
+ten-ninths seconds. That’s how long it takes Achilles to catch up to the tortoise and overtake him. And although Zeno was right that Achilles
+has infinitely many tasks to complete, there’s nothing paradoxical
+about that. As the math shows, he can do them all in a finite amount
+of time.
+This line of reasoning qualifies as a calculus argument. We just
+summed an infinite series and calculated a limit, as we did earlier
+when we discussed why 0.333 . . . = one-third. Whenever we work with
+infinite decimals, we are doing calculus (even though most people
+would pooh-pooh it as middle-school arithmetic).
+Incidentally, calculus isn’t the only way to solve this problem.
+We could use algebra instead. To do so, we first need to figure out
+where each runner is on the track at an arbitrary time t seconds after the race begins. Since Achilles runs at a speed of 10 meters per
+second and since distance equals rate times time, his distance down
+the track is 10t. As for the tortoise, he had a head start of 10 meters
+and he runs with a speed of 1 meter per second, so his distance down
+the track is 10 + t. To ascertain the time when Achilles overtakes the
+tortoise, we have to set those two expressions equal to one another,
+because that’s the algebraic way of asking when Achilles and the tortoise are at the same place at the same time. The resulting equation is
+ten t equals ten plus t.
+To solve this equation, subtract t from both sides. That gives nine t equals ten.
+Then divide both sides by 9. The result, t equals ten-ninths seconds, is the same
+as we found with infinite decimals.
+So from the perspective of calculus, there really is no paradox
+about Achilles and the tortoise. If space and time are continuous,
+everything works out nicely.
+
+Zeno Goes Digital
+In a third paradox, the Paradox of the Arrow, Zeno argued against
+an alternative possibility—that space and time are fundamentally
+discrete, meaning that they are composed of tiny indivisible units,
+something like pixels of space and time. The paradox goes like this.
+If space and time are discrete, an arrow in flight can never move,
+because at each instant (a pixel of time) the arrow is at some definite
+place (a specific set of pixels in space). Hence, at any given instant,
+the arrow is not moving. It is also not moving between instants because, by assumption, there is no time between instants. Therefore,
+at no time is the arrow ever moving.
+To my mind, this is the most subtle and interesting of the paradoxes. Philosophers are still debating its status, but it seems to me
+that Zeno got it two-thirds right. In a world where space and time
+are discrete, an arrow in flight would behave as Zeno said. It would
+strangely materialize at one place after another as time clicks forward
+in discrete steps. And he was also right that our senses tell us that the
+real world is not like that, at least not as we ordinarily perceive it.
+But Zeno was wrong that motion would be impossible in such
+a world. We all know this from our experience of watching movies and videos on our digital devices. Our cell phones and DVRs
+and computer screens chop everything into discrete pixels, and yet,
+contrary to Zeno’s assertion, motion can take place perfectly well
+in these discretized landscapes. As long as everything is diced fine
+enough, we can’t tell the difference between a smooth motion and its
+digital representation. If we were to watch a high-resolution video of
+an arrow in flight, we’d actually be seeing a pixelated arrow materializing in one discrete frame after another. But because of our perceptual limitations, it would look like a smooth trajectory. Sometimes
+our senses really do deceive us.
+Of course, if the chopping is too blocky, we can tell the difference between the continuous and the discrete, and we often find
+it bothersome. Consider how an old-fashioned analog clock differs
+from a modern-day digital/mechanical monstrosity. On the analog
+clock, the second hand sweeps around in a beautifully uniform motion. It depicts time as flowing. Whereas on the digital clock, the
+second hand jerks forward in discrete steps, thwack, thwack, thwack.
+It depicts time as jumping.
+Infinity can build a bridge between these two very different
+conceptions of time. Imagine a digital clock that advances through
+trillions of little clicks per second instead of one loud thwack. We
+would no longer be able to tell the difference between that kind of
+digital clock and a true analog clock. Likewise with movies and videos; as long as the frames flash by fast enough, say at thirty frames a
+second, they give the impression of seamless flow. And if there were
+infinitely many frames per second, the flow truly would be seamless.
+Consider how music is recorded and played back. My younger
+daughter recently received an old-fashioned Victrola record player
+for her fifteenth birthday. She’s now able to listen to Ella Fitzgerald
+on vinyl. This is a quintessential analog experience. All of Ella’s notes
+and scats glide just as smoothly as they did when she sang them;
+her volume goes continuously from soft to loud and everywhere in
+between, and her pitch climbs just as gracefully from low to high.
+Whereas when you listen to her on digital, every aspect of her music
+is minced into tiny, discrete steps and converted into strings of 0s
+and 1s. Although conceptually the differences are gigantic, our ears
+can’t hear them.
+So in everyday life, the gulf between the discrete and the continuous can often be bridged, at least to a good approximation. For
+many practical purposes, the discrete can stand in for the continuous, as long as we slice things thinly enough. In the ideal world of
+calculus, we can go one better. Anything that’s continuous can be
+sliced exactly (not just approximately) into infinitely many infinitesimal pieces. That’s the Infinity Principle. With limits and infinity, the
+discrete and the continuous become one.
+
+Zeno Meets the Quantum
+The Infinity Principle asks us to pretend that everything can be sliced
+and diced endlessly. We’ve already seen how useful such concepts
+can be. Imagining pizzas that can be cut into arbitrarily thin pieces
+enabled us to find the area of a circle exactly. The question naturally
+arises: Do such infinitesimally small things exist in the real world?
+Quantum mechanics has something to say about that. It’s the
+branch of modern physics that describes how nature behaves at its
+smallest scales. It’s the most accurate physical theory ever devised,
+and it is legendary for its weirdness. Its terminology, with its zoo
+of leptons, quarks, and neutrinos, sounds like something out of
+Lewis Carroll. The behavior it describes is often weird as well. At
+the atomic scale, things can happen that would never occur in the
+macroscopic world.
+For instance, consider the Riddle of the Wall from a quantum
+perspective. If the walker were an electron, there’s a chance it might
+walk right through the wall. This effect is known as quantum tunneling. It actually occurs. It’s hard to make sense of this in classical
+terms, but the quantum explanation is that electrons are described
+by probability waves. Those waves obey an equation formulated in
+1925 by the Austrian physicist Erwin Schrödinger. The solution to
+Schrödinger’s equation shows that a small portion of the electron
+probability wave exists on the far side of an impenetrable barrier.
+This means there is some small but nonzero probability that the
+electron will be detected on the far side of the barrier, as if it had
+tunneled through the wall. With the help of calculus, we can calculate the rate at which such tunneling events occur, and experiments
+have confirmed the predictions. Tunneling is real. Alpha particles
+tunnel out of uranium nuclei at the predicted rate to produce the
+effect known as radioactivity. Tunneling also plays an important role
+in the nuclear-fusion processes that make the sun shine, so life on
+Earth depends partially on tunneling. And it has many technological uses; scanning tunneling microscopy, which allows scientists to
+image and manipulate individual atoms, is based on the concept.
+We have no intuition for such events at the atomic scale, being the gargantuan creatures composed of trillions upon trillions of
+atoms that we are. Fortunately, calculus can take the place of intuition. By applying calculus and quantum mechanics, physicists have
+opened a theoretical window on the microworld. The fruits of their
+insights include lasers and transistors, the chips in our computers,
+and the LEDs in our flat-screen TVs.
+Although quantum mechanics is conceptually radical in many
+respects, in Schrödinger’s formulation, it retains the traditional assumption that space and time are continuous. Maxwell made the
+same assumption in his theory of electricity and magnetism; so did
+Newton in his theory of gravity and Einstein in his theory of relativity. All of calculus, and hence all of theoretical physics, hinges on
+this assumption of continuous space and time. That assumption of
+continuity has been resoundingly successful so far.
+But there is reason to believe that at much, much smaller scales
+of the universe, far below the atomic scale, space and time may
+ultimately lose their continuous character. We don’t know for sure
+what it’s like down there, but we can guess. Space and time might
+become as neatly pixelated as Zeno imagined in his Paradox of the
+Arrow, but more likely they’d degenerate into a disorderly mess
+because of quantum uncertainty. At such small scales, space and
+time might seethe and roil at random. They might fluctuate like
+bubbling foam.
+Although there is no consensus about how to visualize space and
+time at these ultimate scales, there is universal agreement about how
+small those scales are likely to be. They are forced upon us by three
+fundamental constants of nature. One of them is the gravitational
+constant, G. It measures the strength of gravity in the universe. It
+appeared first in Newton’s theory of gravity and again in Einstein’s
+general theory of relativity. It is bound to occur in any future theory
+that supersedes them. The second constant, h-bar (pronounced “h bar”),
+reflects the strength of quantum effects. It appears, for example, in
+Heisenberg’s uncertainty principle and in Schrödinger’s wave equation of quantum mechanics. The third constant is the speed of light,
+c. It is the speed limit for the universe. No signal of any kind can
+travel faster than c. This speed must necessarily enter any theory of
+space and time because it ties the two of them together via the principle that distance equals rate times time, where c plays the role of
+the rate or speed.
+In 1899, the father of quantum theory, a German physicist
+named Max Planck, realized that there was one and only one way to
+combine these fundamental constants to produce a scale of length.
+That unique length, he concluded, was a natural yardstick for the
+universe. In his honor, it is now called the Planck length. It is given
+by the algebraic combination
+Planck length equals the square root of h-bar G over c cubed
+
+When we plug in the measured values of G, h-bar, and c, the Planck
+length comes out to be about ten to the minus thirty-five meters, a stupendously small
+distance that’s about a hundred million trillion times smaller than
+the diameter of a proton. The corresponding Planck time is the time
+it would take light to traverse this distance, which is about ten to the minus forty-three
+seconds. Space and time would no longer make sense below these
+scales. They’re the end of the line.
+These numbers put a bound on how fine we could ever slice
+space or time. To get a feel for the level of precision we’re talking
+about here, consider how many digits we would need to make one
+of the most extreme comparisons imaginable. Take the largest possible distance, the estimated diameter of the known universe, and
+divide it by the smallest possible distance, the Planck length. That
+unfathomably extreme ratio of distances is a number with only sixty
+digits in it. I want to stress that—only sixty digits. That’s the most
+we would ever need to express one distance in terms of another. Using more digits than that—say a hundred digits, let alone infinitely
+many—would be colossal overkill, way more than we would ever
+need to describe any real distances out there in the material world.
+And yet in calculus, we use infinitely many digits all the time.
+As early as middle school, students are asked to think about numbers like 0.333 . . . whose decimal expansion goes on forever. We
+call these real numbers, but there is nothing real about them. The
+requirement to specify a real number by an infinite number of digits
+after the decimal point is exactly what it means to be not real, at least
+as far as we understand reality through physics today.
+If real numbers are not real, why do mathematicians love them
+so much? And why are schoolchildren forced to learn about them?
+Because calculus needs them. From the beginning, calculus has
+stubbornly insisted that everything—space and time, matter and
+energy, all objects that ever have been or will be—should be regarded as continuous. Accordingly, everything can and should be
+quantified by real numbers. In this idealized, imaginary world, we
+pretend that everything can be split finer and finer without end.
+The whole theory of calculus is built on that assumption. Without
+it, we couldn’t compute limits, and without limits, calculus would
+come to a clanking halt. If all we ever used were decimals with only
+sixty digits of precision, the number line would be pockmarked and
+cratered. There would be holes where pi, the square root of two, and
+any other numbers that need infinitely many digits after the decimal
+point should exist. Even a simple fraction such as one-third would be miss-
+ing, because it too requires an infinite number of digits (0.333 . . .)
+to pinpoint its location on the number line. If we want to think
+of the totality of all numbers as forming a continuous line, those
+numbers have to be real numbers. They may be an approximation
+of reality, but they work amazingly well. Reality is too hard to model
+any other way. With infinite decimals, as with the rest of calculus,
+infinity makes everything simpler.
