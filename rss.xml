@@ -8,7 +8,7 @@
     <title>Infinite Powers — Audiobook</title>
     <link>https://meisam81.github.io/infinite-powers-audiobook/</link>
     <language>en</language>
-    <description>Full audiobook of "Infinite Powers: How Calculus Reveals the Secrets of the Universe" by Steven Strogatz, narrated by AI voice (George). New chapters released regularly.</description>
+    <description>Full audiobook of "Infinite Powers: How Calculus Reveals the Secrets of the Universe" by Steven Strogatz, narrated by AI voices. New chapters released regularly.</description>
     <itunes:author>Steven Strogatz</itunes:author>
     <itunes:owner>
       <itunes:name>Meysam</itunes:name>
@@ -20,7 +20,7 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://meisam81.github.io/infinite-powers-audiobook/cover.jpg"/>
     <copyright>Original content © Steven Strogatz. This recording is a personal AI-narrated project.</copyright>
-    <lastBuildDate>Sun, 17 May 2026 17:29:40 +1000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 13:57:00 +1000</lastBuildDate>
     <atom:link href="https://meisam81.github.io/infinite-powers-audiobook/rss.xml" rel="self" type="application/rss+xml"/>
 
     <item>
@@ -54,6 +54,22 @@
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:season>1</itunes:season>
       <itunes:episode>2</itunes:episode>
+    </item>
+
+      <item>
+      <title>Chapter 3 — Discovering the Laws of Motion</title>
+      <itunes:title>Chapter 3 — Discovering the Laws of Motion</itunes:title>
+      <description>Chapter 3 of Steven Strogatz's "Infinite Powers." Galileo, Kepler, and the birth of modern physics. From falling bodies, pendulum clocks, and the law of odd numbers to planetary orbits, Kepler's three laws, and the hidden language of differential calculus. Narrated by Daniel (Kokoro TTS).</description>
+      <itunes:summary>Chapter 3 of Steven Strogatz's "Infinite Powers." Galileo, Kepler, and the birth of modern physics. From falling bodies, pendulum clocks, and the law of odd numbers to planetary orbits, Kepler's three laws, and the hidden language of differential calculus. Narrated by Daniel (Kokoro TTS).</itunes:summary>
+      <itunes:image href="https://meisam81.github.io/infinite-powers-audiobook/cover.jpg"/>
+      <link>https://meisam81.github.io/infinite-powers-audiobook/episodes/chapter03.mp3</link>
+      <enclosure url="https://meisam81.github.io/infinite-powers-audiobook/episodes/chapter03.mp3" length="50984492" type="audio/mpeg"/>
+      <guid isPermaLink="false">infinite-powers-ch03</guid>
+      <pubDate>Mon, 01 Jun 2026 13:57:00 +1000</pubDate>
+      <itunes:duration>00:53:06</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
     </item>
   </channel>
 </rss>
